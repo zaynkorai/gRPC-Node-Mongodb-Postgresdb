@@ -17,7 +17,7 @@ This Application works with two different DB's follow links for your interest DB
 **[gRPC with SQl (PostgresDB)](https://github.com/zaynkorai/gRPC-Node-Mongodb-Postgresdb/tree/master/sql)**
 
 
-Note: I Wrote this project for bootcamp. You can find commits **[here](https://github.com/Rehan-Sattar/Ultimate-Todo-Application/tree/master/grpc-p1-s3/)**
+Note: I Wrote this as project for bootcamp. You can find commits **[here](https://github.com/Rehan-Sattar/Ultimate-Todo-Application/tree/master/grpc-p1-s3/)**
 
 
 
