@@ -1,4 +1,4 @@
-## [gRPC with SQl (PostgresDB)](https://github.com/gRPC-Node-Mongodb-Postgresdb/sql/tree/master/sql)
+## [gRPC with SQl (PostgresDB)](https://github.com/gRPC-Node-Mongodb-Postgresdb/tree/master/sql)
 
 ### Clone
 ```
