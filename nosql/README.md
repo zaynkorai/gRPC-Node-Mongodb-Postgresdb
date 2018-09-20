@@ -21,11 +21,11 @@ node app.js
 ```
 ### Run Test
 ```
-node grpcclienttest.js list
-node grpcclienttest.js insert 11 "Ultimate Todo Part 4" "writing code  part 4 of ultimate todo App"
-node grpcclienttest.js update 11 "Ultimate Todo Part 5" "writing code and developing part 4 of ultimate todo App"
-node grpcclienttest.js get 11
-node grpcclienttest.js delete 11
+node test/grpcclienttest.js list
+node test/grpcclienttest.js insert 11 "Ultimate Todo Part 4" "writing code  part 4 of ultimate todo App"
+node test/grpcclienttest.js update 11 "Ultimate Todo Part 5" "writing code and developing part 4 of ultimate todo App"
+node test/grpcclienttest.js get 11
+node test/grpcclienttest.js delete 11
 
 ```
 
