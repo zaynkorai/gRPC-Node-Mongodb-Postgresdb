@@ -3,7 +3,7 @@
 ### Clone
 ```
 git clone https://github.com/zaynkorai/gRPC-Node-Mongodb-Postgresdb/
-cd /gRPC-Node-Mongodb-Postgresdb
+cd /gRPC-Node-Mongodb-Postgresdb/nosql
 
 npm install
 ```
