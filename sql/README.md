@@ -1,10 +1,10 @@
-## [gRPC with SQl (PostgresDB)](https://github.com/Rehan-Sattar/Ultimate-Todo-Application/tree/master/grpc-p1-s3/sql)
+## [gRPC with SQl (PostgresDB)](https://github.com/gRPC-Node-Mongodb-Postgresdb/sql/tree/master/sql)
 
 ### Clone
 ```
-git clone https://github.com/Rehan-Sattar/Ultimate-Todo-Application/
+git clone https://github.com/zaynkorai/gRPC-Node-Mongodb-Postgresdb/
 
-cd /Ultimate-Todo-Application/grpc-p1-s3/sql
+cd /gRPC-Node-Mongodb-Postgresdb/sql
 
 npm install
 ```
